@@ -37,3 +37,7 @@ The pipeline performs:
 ```bash
 docker build -t flask-docker-github-actions .
 docker run -p 5001:5000 flask-docker-github-actions
+
+## Minor Update
+Testing pull request workflow for profile achievement.
+    
